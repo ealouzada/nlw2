@@ -1,7 +1,6 @@
-## nlw2
- Next Level Week #02
+# nlw2 | Next Level Week #02
 
-# PROFFY Project - Platform for online teaching.
+PROFFY Project - Platform for online teaching.
 
 Start 03/08/2020 - End 08/09/2020
 
