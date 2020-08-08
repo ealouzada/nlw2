@@ -4,7 +4,8 @@
   width: 100vw;
   height: 100vh;
 }
-
+/* -- VERIFICAR depois se essa parte abaixo pode ser retirarda -- */
+/*
 .page-header {
   background-color: var(--color-primary);
   
@@ -31,7 +32,7 @@
 .page-header .top-bar-container a:hover {
   opacity: 0.6;
 }
-
+/*
 .page-header .top-bar-container img {
   height: 1.6rem;
 }
@@ -40,14 +41,16 @@
   width: 90%;
   margin: 3.2rem auto;
 
-  position: relative; /*mega importante para posição do menu desktop */
+  position: relative; /*mega importante para posição do menu desktop *//*
 }
+
+-- VERIFICAR depois se essa parte abaixo pode ser retirarda --
 
 .page-header .header-content strong {
   font: 700 3.6rem Archivo;
   line-height: 4.2rem;
   color: var(--color-title-in-primary);
-}
+}*/
 
 #search-teachers {
   margin-top: 3.2rem;
@@ -192,7 +195,7 @@
   display: block;
 }
 
-.teacher-item footer button {
+.teacher-item footer .button {
   width: 20rem;
   height: 5.6rem;
   background: var(--color-secondary);

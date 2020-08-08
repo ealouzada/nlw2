@@ -73,7 +73,7 @@
 }
 
 .buttons-container a.give-classes {
-    background: var(--color-primary-lighter);
+    background: var(--color-secondary);
     margin-right: 0;
 }
 
